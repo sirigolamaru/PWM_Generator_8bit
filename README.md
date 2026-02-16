@@ -1,5 +1,5 @@
 # PWM_Generator_8bit
-
+## Aim:
 To design and implement an 8-bit Pulse Width Modulation (PWM) generator that can generate a PWM signal with variable duty cycle ranging from 0% to 100%, using digital logic/FPGA.
 
 ## Apparatus / Tools Required:
